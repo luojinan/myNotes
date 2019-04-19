@@ -16,7 +16,7 @@
 
 ## 一、创建前端项目
 - 在我们要放项目的文件夹中运行git或命令行
-```shell
+``` shell
 git clone https://github.com/PanJiaChen/vue-admin-template.git
 ```
 - 不需要特地新建一个文件夹存克隆项目，生成的就是一个文件夹，可以重命名。
@@ -35,7 +35,7 @@ git clone https://github.com/PanJiaChen/vue-admin-template.git
 ### 2、初始化server项目
 > 不要急，前期的准备还是挺多的，本文也以后端入门为主
 在server文件夹中运行命令行
-```shell
+``` shell
 npm init
 ```
 - 注意：不是我们上传代码是初始化项目的`git init`
